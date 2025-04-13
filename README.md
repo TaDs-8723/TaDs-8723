@@ -1,4 +1,4 @@
-- 👋 Hey, I’m TaDs
+- 👋 Hey, I’m Trae Smith
 - 👀 I’m interested in coding in Python and Java 
 - 🌱 I’m currently learning multiple languages, from Python to C++
 - 💞️ I’m looking to collaborate on N/A (no one yet, sorry)
