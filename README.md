@@ -1,6 +1,5 @@
 - 👋 Hey, I’m Trae Smith
-- 👀 I’m interested in coding in Python and Java 
-- 🌱 I’m currently learning multiple languages, from Python to C++
+- 👀 I’m interested in coding in Python, Java, and R
 - 💞️ I’m looking to collaborate on N/A (no one yet, sorry)
 - 📫 How to reach me is to use my email tdthesk1358@gmail.com
 
